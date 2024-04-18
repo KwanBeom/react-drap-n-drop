@@ -1,0 +1,4 @@
+.react-grid-layout .react-grid-placeholder {
+  background-color: white; /* 빨간색 배경에 투명도 추가 */
+  border: 2px dashed green; /* 빨간색 점선 테두리 */
+}
